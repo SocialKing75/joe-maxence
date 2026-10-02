@@ -49,8 +49,8 @@ Lisez la trace : quels outils, dans quel ordre, avec quels arguments ? Puis essa
 
 | Question | Outils appelés | Réponse juste ? |
 |---|---|---|
-| « Qu'y a-t-il sous 100 000 € ? » | | |
-| « Le bien a06 est-il au prix du marché ? » | | |
+| « Qu'y a-t-il sous 100 000 € ? » | |OUI |
+| « Le bien a06 est-il au prix du marché ? » | |OUI |
 | « Avec 250 000 € empruntés sur 25 ans à 3,4 %, je paie combien par mois ? » | | |
 | « Une maison avec jardin près des écoles, 450 k€ max, et la mensualité si j'emprunte tout sur 25 ans à 3,4 % » | | |
 
